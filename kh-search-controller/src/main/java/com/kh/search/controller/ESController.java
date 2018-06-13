@@ -106,7 +106,6 @@ public class ESController {
         try {
             XContentBuilder builder = XContentFactory.jsonBuilder().startObject();
 
-            builder.field("id",id);
             builder.field("country",country);
             builder.field("age",age);
             builder.field("date",date);
