@@ -1,4 +1,4 @@
-package com.kh.search;
+package com.kh.search.config;
 
 import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.settings.Settings;

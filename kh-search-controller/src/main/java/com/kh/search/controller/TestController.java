@@ -24,4 +24,9 @@ public class TestController {
     public KhApi s(){
         return userService.getOne();
     }
+
+    @RequestMapping("/output")
+    public String output(){
+        return "springboot output";
+    }
 }

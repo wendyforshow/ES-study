@@ -6,8 +6,6 @@ import com.kh.search.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.swing.plaf.IconUIResource;
-
 /**
  * 所在的包名: com.kh.search.service.impl
  * 所在的项目名：kh-search
